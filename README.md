@@ -3,29 +3,38 @@
 
 আমরা রাউটারের অ্যাডমিন প্যানেল এর Username & Password দেখতে পারবো Config.bin ফাইল এর মাধ্যমে। এমনকি wps pin ও দেখা যাবে এটার মাধ্যমে। 
 
-https://1.bp.blogspot.com/-ed7DWoWN1kc/X_cXPynCNbI/AAAAAAAAAMg/Wq_9UssEUogXARMI60uKdtVsLFRPR_JxQCLcBGAsYHQ/s1280/20210107_201213.jpg
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/b0050088-e78e-46fc-981d-a045ea4f2c0f)
+
 
 তো চলুন শুরু করি :
 
 ### 1. প্রথমে নিচের লিংক থেকে এপ্প টা ডাউনলোড করে নিন ?
 https://exe.io/9Hkrn
 ### 2. ইনস্টল করে ওপেন করুন এবং ল্যাঙ্গুয়েজ English সিলেক্ট করুন ?
-https://lh3.googleusercontent.com/-hsu5bVqHPgo/X_bXiZcdmTI/AAAAAAAAAKU/wwOBraStk0MoyI1mZJ5Gme7ppEXpT5eRwCLcBGAsYHQ/image.png
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/11817e6c-8c51-4476-91ec-becc545f96a7)
+
 ### 3. পার্মিসন Allow করুন?
-https://lh3.googleusercontent.com/-fC8wQVC51Go/X_bYcAJ08kI/AAAAAAAAAKc/ZzAeCoEKadUJx8x_HLB1YsoNTYWY2a3lgCLcBGAsYHQ/image.png
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/266c269f-b2e0-4321-aabc-9120a953c148)
+
 ### 4. এরপর  Select এ ক্লিক করুন ?
-https://lh3.googleusercontent.com/-6ntmf8IvfeE/X_bZaVqhmvI/AAAAAAAAAKw/0zgKdWcl4T8j8ZGoQWevgQUEYXKbGWLdQCLcBGAsYHQ/image.png
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/8ab354f7-b4af-40ae-b7d9-c9a63c899524)
+
 ### 5. প্লাস আইকনে ক্লিক করুন ?
-https://lh3.googleusercontent.com/-VIC-oDWtKQs/X_bZ6-35BZI/AAAAAAAAAK4/-q_bHSyIg98GD5AZqqI9ynHWpRuXrjOugCLcBGAsYHQ/image.png
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/92667928-d08e-4cf7-aafa-1edd24448a1a)
+
 ### 6. Add Link এ ক্লিক করুন ?
-https://lh3.googleusercontent.com/-3DW2hgKrBB8/X_baqDyGb-I/AAAAAAAAALE/8lVJaTkgIAYHisv4pSRcn_y4IbDv-p8EQCLcBGAsYHQ/image.png
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/466984a6-6926-4735-bebc-5f611f4440cc)
+
 ### 7. এরপর উপরের ফাঁকা বক্সে http://192.168.0.1/cgl/conf.bin? টাইপ করে Connect এ ক্লিক করুন?
-https://lh3.googleusercontent.com/-iBg2OIEuX7I/X_bbg7TLRII/AAAAAAAAALM/nELFnXb8ht07c-BChwcEZK5tHiwHP7QwQCLcBGAsYHQ/image.png
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/ef72e729-5ad2-4df3-a647-9e151306ddad)
+
 ### 8. এরপর Start এ ক্লিক করুন ফাইল টা  ডাউনলোড হয়ে যাবে ?
-https://lh3.googleusercontent.com/-roXf_nCPBjs/X_bcydGL9FI/AAAAAAAAALY/umMmFEvIeTQ5eqEtWG3gEO6BSY3P2GOzQCLcBGAsYHQ/image.png
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/e36653fc-90e3-4b9c-aaa1-19ee723d8a96)
+
 
 ### 9. ডাউনলোড করা ফাইল টা ইন্টারনাল স্টোরেজের হোম ডিরেক্টরি তে রাখুন?
-https://lh3.googleusercontent.com/-8wfY1ZHxI2Q/X_bdciNdEuI/AAAAAAAAALg/GlxqAc3J4g0uZX7Dw5MOabBTOnq1Tf9xgCLcBGAsYHQ/image.png
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/75bb4aeb-7f7a-4eb2-b124-965edd8208fa)
+
 ### 10. এখন আমাদের Termux এ যেতে হবে এবং নিচের কম্যান্ড গুলা একটা একটা করে এন্টার করতে হবে ?
 
 
@@ -62,14 +71,17 @@ termux-setup-storage
 
 ```
 ### এটা এন্টার করলে নিচের মতো আসবে 
-https://lh3.googleusercontent.com/-8dlDMC1gMKw/X_cPhMlI7sI/AAAAAAAAAL0/y_CnnqEMYdklMl0Vn9OH9WWdifSGF3iSgCLcBGAsYHQ/image.png
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/5e4c2408-14ee-4290-b88d-4f3e92bb265d)
+
 ```
 cat 1.xml
 ```
 ### এটা এন্টার করার পর নিচের মতো ইন্টারফেস শো হবে, যেখানে রাউটারের সব ইনফরমেশন থাকবে।
 এখানে Device Password হলো  Wifi Password এবং  PreShareKey হলো WPS  পিন।
-https://lh3.googleusercontent.com/-xCuzVIEX0Kw/X_cRe-gNXeI/AAAAAAAAAMM/hE-Juzsa16023j66sYbqjbjeGQQN0AfLACLcBGAsYHQ/image.png
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/efd25eee-d924-4aff-a351-40f36a4ec7f9)
+
 ### এবং তার নিচে রাউটারের Username & Password দেখতে পাবেন।
-https://lh3.googleusercontent.com/-BmPQR4aDvUk/X_cSFo_wFSI/AAAAAAAAAMU/_36Jvm5-U3MgpmsGy-CmeLUjGoCuNAfrwCLcBGAsYHQ/image.png
+
+![image](https://github.com/Gtajisan/wifi-admin-hack/assets/124022055/06b4f573-6957-402e-8ca0-9781c654bf57)
 
 
