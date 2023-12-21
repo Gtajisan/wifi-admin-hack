@@ -28,7 +28,7 @@ pkg update && pkg upgrade -y
 pkg install git python -y
 pip3 install pycryptodome
 git clone https://github.com/Gtajisan/wifi-admin-hack
-cd admin-hack.py
+cd wifi-admin-hack
 
 
 ```
