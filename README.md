@@ -17,8 +17,9 @@ A simple python tool for crack old TP-Link routers.
 + **Find admin panel password**
 
 ### install one line 
+```
 pkg update && pkg upgrade -y && pkg install git python -y && pip3 install pycryptodome && git clone https://github.com/Gtajisan/wifi-admin-hack && cd admin-hack.py && python admin-hack.py -h
-
+```
 
 ### Installation :
 
