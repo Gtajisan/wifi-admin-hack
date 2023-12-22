@@ -29,10 +29,9 @@ pkg install git python -y
 pip3 install pycryptodome
 git clone https://github.com/Gtajisan/wifi-admin-hack
 ```
+```
 cd wifi-admin-hack
 chmod +x admin-hack.py
-```
-
 ```
 
 #### Help : 
