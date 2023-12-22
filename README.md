@@ -41,7 +41,7 @@ python admin-hack.py -h
 
 #### Usage : 
 ```
-python admin-hack.py conf.xml 192.168.0.1
+python admin-hack.py conf.xml [ you ip ] 
 ```
 
 #### Note: 
